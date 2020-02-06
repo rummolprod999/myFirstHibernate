@@ -43,12 +43,10 @@ public class UserDao {
     }
 
     public List<User> findAll() {
-        List<User> users =
-                (List<User>)
-                        HibernateSessionFactoryUtil.getSessionFactory()
-                                .openSession()
-                                .createQuery("From User")
-                                .list();
-        return users;
+        return (List<User>)
+                HibernateSessionFactoryUtil.getSessionFactory()
+                        .openSession()
+                        .createQuery("From User")
+                        .list();
     }
 }

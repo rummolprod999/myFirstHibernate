@@ -1,3 +1,6 @@
 /home/alex/IdeaProjects/myFirstHibernate/src/main/java/utils/HibernateSessionFactoryUtil.java
 /home/alex/IdeaProjects/myFirstHibernate/src/main/java/models/User.java
+/home/alex/IdeaProjects/myFirstHibernate/src/main/java/dao/UserDao.java
+/home/alex/IdeaProjects/myFirstHibernate/src/main/java/services/UserService.java
 /home/alex/IdeaProjects/myFirstHibernate/src/main/java/models/Auto.java
+/home/alex/IdeaProjects/myFirstHibernate/src/main/java/Main.java

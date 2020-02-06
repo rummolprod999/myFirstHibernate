@@ -1,5 +1,5 @@
-models/Auto.class
 models/User.class
+utils/HibernateSessionFactoryUtil.class
+models/Auto.class
 dao/UserDao.class
 services/UserService.class
-utils/HibernateSessionFactoryUtil.class
